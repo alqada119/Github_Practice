@@ -2,7 +2,7 @@
 ## Recursion Recursion <!--Second title-->
 ### Recursion Recursion Recursion <!--Third title, also this is how to add comments-->
 
-As evident by my title: I am a fan of recursion. Here is why:
+**As evident by my title: I am a fan of recursion. Here is why:**
 1. **I love tracing every call!** <!--Bold-->
    - Despite that being tedious
      - It is actually a very useful tool.
