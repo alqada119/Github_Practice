@@ -18,4 +18,6 @@ A picture showing recursion:
 
 ![A picture showing how recursion works](https://cdn-media-1.freecodecamp.org/images/1*Rt-CKWzyXM1VP-mwD8XuuA.png)
 
-[gift](https://www.youtube.com/watch?v=oHg5SJYRHA0)
+[CLICK HERE](https://www.youtube.com/watch?v=oHg5SJYRHA0)
+
+[CLICK HERE TO GET TO MY OTHER LINK]
