@@ -8,4 +8,4 @@ As evident by my title: I am a fan of recursion. Here is why:
 * ***Stack Overflow!*** <!--Both-->
 >I am being sarcastic <!--Adding Quotes-->
 
-'rgb(9,105,218)'
+This is an image depicting [Recursion](https://www.freecodecamp.org/news/recursion-visually-explained-bec8cca14d9b/)
