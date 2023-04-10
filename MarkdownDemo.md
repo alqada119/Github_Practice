@@ -20,4 +20,4 @@ A picture showing recursion:
 
 [CLICK HERE](https://www.youtube.com/watch?v=oHg5SJYRHA0)
 
-[CLICK HERE TO GET TO MY PROFILE README](alqada119/alqada119)
+[CLICK HERE TO GET TO MY PROFILE README](https://github.com/alqada119/alqada119)
